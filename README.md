@@ -1,7 +1,7 @@
 # React-simple-demos
-✨✨✨
-一些关于React.js的简单demo 适合用来入门<br>
-每个项目都有README.md文档 上手简单（因为自己也才刚学几天）
+✨✨✨<br>
+🚩一些关于React.js的简单demo 适合用来入门<br>
+✅每个项目都有README.md文档 上手简单（因为自己也才刚学几天）
 ### 如何使用
 脚手架初始化的node_modules文件夹太大就不放进来了<br>
 运行前先配置好依赖环境React antd<br>
@@ -28,4 +28,4 @@ or <br>
 ```bash
 $ npm start
 ```
-需要一些html\css\javascript\JSX\npm\yarn\React基础就行
+💭需要一点点html\css\javascript\JSX\npm\yarn\React基础即可

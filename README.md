@@ -1,5 +1,6 @@
 # React-simple-demos
-✨✨✨ 一些关于React.js的简单demo 适合用来入门
+✨✨✨
+一些关于React.js的简单demo 适合用来入门
 ### 如何使用
 脚手架初始化的node_modules文件夹太大就不放进来了<br>
 运行前先配置好依赖环境React antd<br>
@@ -19,7 +20,7 @@ $ @import 'antd/dist/antd.css';
 ```
 $ git clone https://github.com/yangzi0210/React-demos.git
 ```
-or
+or <br>
 直接下载压缩包到本地
 打开cmd cd到当前文件夹路径
 

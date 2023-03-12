@@ -1,0 +1,31 @@
+.ul-container {
+  font-size: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  text-align: center;
+  list-style: none;
+  font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 60px;
+  color: rgb(53, 56, 36);
+  margin: auto;
+
+}
+
+div{
+  background-color: beige;
+}
+input{
+  width: 600px;
+  height: 50px;
+  display: block;
+  margin: auto;
+  font-size: 40px;
+  background-color: beige;
+  border: 5px double gold ; 
+  border-radius: 100px;
+}

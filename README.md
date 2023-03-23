@@ -5,7 +5,10 @@
 ### 如何使用
 脚手架初始化的node_modules文件夹太大就不放进来了<br>
 运行前先配置好依赖环境React antd<br>
-
+### 项目列表
+- 简单登录页面
+- 宝可梦筛选器
+- 井字棋
 #### 一、运行下面指令
 ```
 $ npx create-react-app my-app

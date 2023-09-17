@@ -31,4 +31,4 @@ or <br>
 ```bash
 $ npm start
 ```
-💭需要一点点html\css\javascript\JSX\npm\yarn\React基础即可
+💭 本人刚学习前端时做的 完全面向零基础
